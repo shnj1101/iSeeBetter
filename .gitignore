@@ -113,3 +113,7 @@ venv.bak/
 *.mov
 *.avi
 *.mp4
+*.png
+
+AFM*
+*.pth
